@@ -1,0 +1,12 @@
+/*
+!/alacritty
+!/wezterm
+!/bat
+!/zsh
+
+!.gitignore
+!README.md
+
+/zsh/.zsh_history
+/zsh/.zsh_sessions
+/zsh/.zcompdump**
