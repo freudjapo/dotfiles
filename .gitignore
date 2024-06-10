@@ -3,6 +3,7 @@
 !/wezterm
 !/bat
 !/zsh
+!/tmux
 
 !.gitignore
 !README.md
@@ -10,3 +11,4 @@
 /zsh/.zsh_history
 /zsh/.zsh_sessions
 /zsh/.zcompdump**
+/tmux/plugins

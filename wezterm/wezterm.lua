@@ -19,7 +19,8 @@ local config = wezterm.config_builder()
 -- 	brights = { "#214969", "#E52E2E", "#44FFB1", "#FFE073", "#A277FF", "#a277ff", "#24EAF7", "#24EAF7" },
 -- }
 
-config.color_scheme = 'Tomorrow Night Eighties'
+--config.color_scheme = 'tokyonight'
+config.color_scheme = 'Ubuntu'
 config.font = wezterm.font("MesloLGS Nerd Font Mono")
 config.font_size = 16
 
