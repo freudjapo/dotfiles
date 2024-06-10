@@ -21,7 +21,7 @@ local config = wezterm.config_builder()
 
 --config.color_scheme = 'tokyonight'
 config.color_scheme = 'Ubuntu'
-config.font = wezterm.font("MesloLGS Nerd Font Mono")
+config.font = wezterm.font("SauceCodePro Nerd Font Mono")
 config.font_size = 16
 
 config.window_frame = {
